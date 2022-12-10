@@ -896,5 +896,3 @@ void allow_cold_extrudes(bool allow)
   allow_cold_extrude=allow;
 #endif
 }
-
-

@@ -2106,4 +2106,3 @@ bool setTargetedHotend(int code){
   }
   return false;
 }
-

@@ -55,4 +55,3 @@ ISR(WDT_vect)
 #endif//RESET_MANUAL
 
 #endif//USE_WATCHDOG
-
