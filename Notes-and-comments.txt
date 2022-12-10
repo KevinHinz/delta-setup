@@ -1,0 +1,24 @@
+in Configuration_adv.h
+	Keep's #define DEFAULT_STEPPER_DEACTIVE_TIME was equal to 60. 
+		**change this to `#define DEFAULT_STEPPER_DEACTIVE_TIME 7200` so that the stepper don't disengage so quickly.
+		
+		
+		
+
+
+
+
+in Configuration.h
+	Check the ROD lengths and ROD_OFFSET, etc in the section under `Delta Settings`
+		*here defines the height and offsets for the printer's overall size.
+
+	Edit the `#define MANUAL_Z_HOME_POS 400` to match the machine bed -to- tool tip height.
+	
+	
+	
+	
+	
+HARDWARE
+	Jumpers need to be installed under each stepper driver: 
+		https://reprap.org/forum/read.php?397,394799
+		*see the line for this link in the MAPS configuration
