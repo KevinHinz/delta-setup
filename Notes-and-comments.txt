@@ -22,3 +22,7 @@ HARDWARE
 	Jumpers need to be installed under each stepper driver: 
 		https://reprap.org/forum/read.php?397,394799
 		*see the line for this link in the MAPS configuration
+		
+		
+ppz9MV!jiAennx!C&$QAa
+_LittleFork1
