@@ -1,5 +1,6 @@
-Some basic information
+# Some basic information
 
+This folder holds all preliminary sketch folders to control a delta-style printer using the Marlin firmware. 
 ____________________________________________________
 
 The Arduino used in Streamline-2022 is a fake and a programmer must be used to upload sketches to the board.
