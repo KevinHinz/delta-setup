@@ -1,8 +1,10 @@
-Some basic information
+# Some basic information
+
+This folder holds all preliminary sketch folders to control a delta-style printer using the Marlin firmware. 
 
 ____________________________________________________
 
-The Arduino used in Streamline-2022 is a fake and a programmer must be used to upload sketches to the board.
+The Arduino used in Streamline_-_2022 is a fake and a programmer must be used to upload sketches to the board.
 The steps are as follows:
 1. Connect the programmer to the CPU where the AVRISP mk2 is connected to the cpu and the arduino board is powered with its 5v USB. 
 - if everything is correctly configured, the light on the programmer will light up green
